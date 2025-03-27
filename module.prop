@@ -1,0 +1,6 @@
+id=nmap_static_aarch64
+name=nmap binary (aarch64)
+version=7.93
+versionCode=7.93
+author=Niweera
+description=Provides static nmap binary for aarch64
